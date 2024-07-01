@@ -5,6 +5,8 @@
 Servo servo1;
 Servo servo2;
 
+// こんにちは
+
 void setup() {
     Serial.begin(115200);
     
